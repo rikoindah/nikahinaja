@@ -5,11 +5,9 @@
 	
 }
 .depan { 
-	/* border: 1px solid #383434;  */
-	border-radius: 10px;
-	position: relative; 
+	border: 1px solid #383434;
+	border-radius: 10px; 
 	overflow: hidden; 
-	background-size: cover;
 	animation: zoom 10s infinite alternate;
 	
 }
@@ -229,16 +227,19 @@ a {
 .malasngoding-slider { 
 	margin-top: 100px;
 	margin:5px auto;
-	width: 320px;
-	height: 568px; 
+	width: 444px;
+	height: 383px; 
 }
 .depan { 
 	margin:5px auto;
-	width: 444px;
-	height: 500px; 
+	width: 480px;
+	height: 896px; 
+	background-size: 480px 896px;
+	
 }
+
 .isis {
-	margin-top: 340px;
+	margin-top: 550px;
 	
 /* 
 		margin: 0;
